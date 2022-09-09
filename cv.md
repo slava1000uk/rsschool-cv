@@ -54,7 +54,7 @@ Several pet web applications built with vanilla JS
 
 * **Courses:**
   + [Htmlacademy HTML, CSS, JavaScript course](https://htmlacademy.ru/courses/new/fe-start)
-  + learn.javascript.ru
+  + [learn.javascript.ru](learn.javascript.ru)
   + [Udemy React course by Maximilian Schwarzmuller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 #### Languages
