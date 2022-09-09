@@ -1,5 +1,5 @@
-#### VIACHESLAV TYSHCHUK
-##### Frontend Developer
+### VIACHESLAV TYSHCHUK
+#### Frontend Developer
 
 ---
 
