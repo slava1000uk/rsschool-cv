@@ -56,3 +56,21 @@ Several pet web applications built with vanilla JS
   + [Htmlacademy HTML, CSS, JavaScript course](https://htmlacademy.ru/courses/new/fe-start)
   + learn.javascript.ru
   + [Udemy React course by Maximilian Schwarzmuller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+####Languages
+* Russian (native)
+* English (fluent)
+
+####Soft Skills
+All soft skills below are based on my working experience as a professional theater director for 15 years:
+
+* Creativity and problem solving.
+* Initiative and willingness to take risks.
+* Negotiation.
+* Communication skills.
+* Collaboration and teamwork.
+* Time management skills and respect  for deadlines.
+* Research skills.
+* Ability to stay motivated and motivate others.
+* Team leadership.
+* Lifelong learner. Ability to learn fast.
