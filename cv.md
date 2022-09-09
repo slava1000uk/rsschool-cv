@@ -1,11 +1,11 @@
-####VIACHESLAV TYSHCHUK
-#####Frontend Developer
+#### VIACHESLAV TYSHCHUK
+##### Frontend Developer
 
 ![](src/1000uk_cv.png)
 
 ---
 
-####Contacts
+#### Contacts
 * **Location:** Budva, Montenegro
 * **Phone:**    +382 (67) 141 689
 * **E-mail:**   slava1000uk@gmail.com
@@ -14,10 +14,10 @@
 
 ---
 
-####About Myself
+#### About Myself
 I imagine a wonderful world of the future in which all routine processes are automated by developers and people are engaged only in what cannot be automated: love and creativity. It deeply inspires me to be part of this change.
 
-####Hard Skills
+#### Hard Skills
 Front-end development using: 
 * JavaScript
 * ReactJS
@@ -25,7 +25,7 @@ Front-end development using:
 * CSS/ SASS
 * Git
 
-####Code Example
+#### Code Example
 ```
 function reverseWords(str){
   str = str.split(" ")
@@ -37,13 +37,13 @@ function reverseWords(str){
 
 console.log(reverseWords("yoda doesn't speak like this"));
 ```
-####Relevant Experience
+#### Relevant Experience
 Several pet web applications built with vanilla JS
 
 * [Game Snake](https://slava1000uk.github.io/GameSnake/)
 * [Background color changer](https://slava1000uk.github.io/Color-Flipper/)
 
-####Education
+#### Education
 * **University:**
   + Novosibirsk State University,
     Master of Science (MS), Mathematics and Computer Science
@@ -57,11 +57,11 @@ Several pet web applications built with vanilla JS
   + learn.javascript.ru
   + [Udemy React course by Maximilian Schwarzmuller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-####Languages
+#### Languages
 * Russian (native)
 * English (fluent)
 
-####Soft Skills
+#### Soft Skills
 All soft skills below are based on my working experience as a professional theater director for 15 years:
 
 * Creativity and problem solving.
