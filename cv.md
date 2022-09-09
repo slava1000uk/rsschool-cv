@@ -37,3 +37,8 @@ function reverseWords(str){
 
 console.log(reverseWords("yoda doesn't speak like this"));
 ```
+####Relevant Experience
+Several pet web applications built with vanilla JS
+
+* [Game Snake](https://slava1000uk.github.io/GameSnake/)
+* [Background color changer](https://slava1000uk.github.io/Color-Flipper/)
