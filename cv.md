@@ -24,3 +24,16 @@ Front-end development using:
 * HTML
 * CSS/ SASS
 * Git
+
+####Code Example
+```
+function reverseWords(str){
+  str = str.split(" ")
+            .reverse()
+            .join(" ");
+
+  return str; // reverse those words
+}
+
+console.log(reverseWords("yoda doesn't speak like this"));
+```
