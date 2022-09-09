@@ -42,3 +42,17 @@ Several pet web applications built with vanilla JS
 
 * [Game Snake](https://slava1000uk.github.io/GameSnake/)
 * [Background color changer](https://slava1000uk.github.io/Color-Flipper/)
+
+####Education
+* **University:**
+  + Novosibirsk State University,
+    Master of Science (MS), Mathematics and Computer Science
+    1996 - 2001
+  + Russian Academy of Theater Arts       (GITIS), Moscow
+   Theater director
+   2003 - 2008
+
+* **Courses:**
+  + [Htmlacademy HTML, CSS, JavaScript course](https://htmlacademy.ru/courses/new/fe-start)
+  + learn.javascript.ru
+  + [Udemy React course by Maximilian Schwarzmuller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
